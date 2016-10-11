@@ -1,7 +1,8 @@
 <!--index php file-->
 <?php
 
-//echo "php on heroku is awesome";
+//header( 'CS6432016/TwilioSend/index.html' ) ;
+echo "php on heroku is awesome";
 
  // this line loads the library 
 require('/path/to/twilio-php/Services/Twilio.php'); 
